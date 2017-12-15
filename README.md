@@ -10,3 +10,5 @@ as a team, it allows to understand what changes have occurred, and whether or no
 5. Workflow considerations (5 min)
 ci, multiple platforms
 6. Questions
+
+To run the app, spin up an HTTP server (e.g. python -m SimpleHTTPServer) and open localhost:8000 
